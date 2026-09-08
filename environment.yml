@@ -1,0 +1,20 @@
+name: coffee-leaf-vit-multimodal
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch>=2.3
+  - torchvision>=0.18
+  - pytorch-cuda=12.1
+  - numpy>=1.26
+  - pandas>=2.2
+  - scikit-learn>=1.5
+  - pillow>=10
+  - matplotlib>=3.8
+  - pyyaml>=6
+  - pip
+  - pip:
+      - transformers>=4.45
+# The exact completed Colab runtime is recorded in environment_runtime.json.

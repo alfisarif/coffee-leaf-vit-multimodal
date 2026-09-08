@@ -1,0 +1,1 @@
+The manuscript figures are retained in the paper document. Exact generated PNG figures from the completed runtime were not part of the source archive used for this reconstruction, so no synthetic figures are included here.

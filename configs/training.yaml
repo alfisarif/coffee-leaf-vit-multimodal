@@ -1,0 +1,15 @@
+seed: 42
+optimizer: AdamW
+learning_rate: 2.0e-5
+weight_decay: 0.01
+batch_size: 8
+max_epochs: 10
+early_stopping: false
+pretrained_vit: google/vit-base-patch16-224
+vit_all_parameters_trainable: true
+checkpoint_selection:
+  primary: minimum_validation_cross_entropy
+  tie_breaker_1: validation_accuracy
+  tie_breaker_2: earlier_epoch
+  tolerance: 1.0e-12
+hardware: NVIDIA Tesla T4

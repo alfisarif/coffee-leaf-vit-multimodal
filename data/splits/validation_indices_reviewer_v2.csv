@@ -1,0 +1,169 @@
+﻿observation_id,source_id,image_path,label_canonical
+OBS0002,SRC0131,images/B (1).png,Leaf spot
+OBS0004,SRC0173,images/B (10).png,Leaf spot
+OBS0023,SRC0084,images/B (111).png,Leaf spot
+OBS0024,SRC0084,images/B (112).png,Leaf spot
+OBS0035,SRC0035,images/B (121).png,Leaf spot
+OBS0036,SRC0035,images/B (122).png,Leaf spot
+OBS0037,SRC0171,images/B (123).png,Leaf spot
+OBS0038,SRC0171,images/B (124).png,Leaf spot
+OBS0039,SRC0023,images/B (125).png,Leaf spot
+OBS0040,SRC0023,images/B (126).png,Leaf spot
+OBS0043,SRC0022,images/B (129).png,Leaf spot
+OBS0044,SRC0022,images/B (130).png,Leaf spot
+OBS0047,SRC0097,images/B (133).png,Leaf spot
+OBS0048,SRC0097,images/B (134).png,Leaf spot
+OBS0051,SRC0118,images/B (137).png,Leaf spot
+OBS0052,SRC0118,images/B (138).png,Leaf spot
+OBS0053,SRC0137,images/B (139).png,Leaf spot
+OBS0055,SRC0173,images/B (14).png,Leaf spot
+OBS0056,SRC0137,images/B (140).png,Leaf spot
+OBS0067,SRC0173,images/B (15).png,Leaf spot
+OBS0071,SRC0173,images/B (16).png,Leaf spot
+OBS0075,SRC0173,images/B (18).png,Leaf spot
+OBS0079,SRC0173,images/B (2).png,Leaf spot
+OBS0085,SRC0174,images/B (22).png,Leaf spot
+OBS0087,SRC0131,images/B (23).png,Leaf spot
+OBS0089,SRC0174,images/B (24).png,Leaf spot
+OBS0090,SRC0148,images/B (25).jpg,Leaf spot
+OBS0091,SRC0174,images/B (25).png,Leaf spot
+OBS0092,SRC0148,images/B (26).jpg,Leaf spot
+OBS0101,SRC0131,images/B (3).png,Leaf spot
+OBS0120,SRC0067,images/B (39).jpg,Leaf spot
+OBS0122,SRC0120,images/B (4).jpg,Leaf spot
+OBS0124,SRC0067,images/B (40).jpg,Leaf spot
+OBS0145,SRC0131,images/B (5).png,Leaf spot
+OBS0167,SRC0173,images/B (6).png,Leaf spot
+OBS0172,SRC0215,images/B (62).jpg,Leaf spot
+OBS0174,SRC0215,images/B (63).jpg,Leaf spot
+OBS0176,SRC0215,images/B (64).jpg,Leaf spot
+OBS0178,SRC0215,images/B (65).jpg,Leaf spot
+OBS0180,SRC0208,images/B (66).jpg,Leaf spot
+OBS0182,SRC0208,images/B (67).jpg,Leaf spot
+OBS0184,SRC0208,images/B (68).jpg,Leaf spot
+OBS0186,SRC0208,images/B (69).jpg,Leaf spot
+OBS0189,SRC0131,images/B (7).png,Leaf spot
+OBS0202,SRC0217,images/B (76).jpg,Leaf spot
+OBS0205,SRC0190,images/B (77).png,Leaf spot
+OBS0206,SRC0079,images/B (78).jpg,Leaf spot
+OBS0207,SRC0190,images/B (78).png,Leaf spot
+OBS0209,SRC0190,images/B (79).png,Leaf spot
+OBS0213,SRC0190,images/B (80).png,Leaf spot
+OBS0218,SRC0007,images/B (83).jpg,Leaf spot
+OBS0261,SRC0050,images/Ds (105).png,Healthy
+OBS0263,SRC0050,images/Ds (107).png,Healthy
+OBS0265,SRC0050,images/Ds (109).png,Healthy
+OBS0287,SRC0057,images/Ds (129).png,Healthy
+OBS0294,SRC0057,images/Ds (135).png,Healthy
+OBS0298,SRC0057,images/Ds (139).png,Healthy
+OBS0301,SRC0057,images/Ds (141).png,Healthy
+OBS0319,SRC0176,images/Ds (22).jpg,Healthy
+OBS0320,SRC0176,images/Ds (23).jpg,Healthy
+OBS0321,SRC0176,images/Ds (24).jpg,Healthy
+OBS0322,SRC0176,images/Ds (25).jpg,Healthy
+OBS0323,SRC0176,images/Ds (26).jpg,Healthy
+OBS0324,SRC0176,images/Ds (27).jpg,Healthy
+OBS0325,SRC0213,images/Ds (28).jpg,Healthy
+OBS0326,SRC0213,images/Ds (29).jpg,Healthy
+OBS0328,SRC0213,images/Ds (30).jpg,Healthy
+OBS0329,SRC0213,images/Ds (31).jpg,Healthy
+OBS0330,SRC0213,images/Ds (32).jpg,Healthy
+OBS0331,SRC0213,images/Ds (33).jpg,Healthy
+OBS0352,SRC0153,images/Ds (52).jpg,Healthy
+OBS0353,SRC0153,images/Ds (53).jpg,Healthy
+OBS0354,SRC0153,images/Ds (54).jpg,Healthy
+OBS0355,SRC0153,images/Ds (55).jpg,Healthy
+OBS0356,SRC0153,images/Ds (56).jpg,Healthy
+OBS0357,SRC0153,images/Ds (57).jpg,Healthy
+OBS0388,SRC0050,images/Ds (85).png,Healthy
+OBS0392,SRC0050,images/Ds (89).png,Healthy
+OBS0397,SRC0050,images/Ds (93).png,Healthy
+OBS0399,SRC0050,images/Ds (95).png,Healthy
+OBS0403,SRC0050,images/Ds (99).png,Healthy
+OBS0408,SRC0127,images/Ej (100).png,Sooty mold
+OBS0420,SRC0121,images/Ej (110).png,Sooty mold
+OBS0421,SRC0121,images/Ej (111).png,Sooty mold
+OBS0422,SRC0121,images/Ej (112).png,Sooty mold
+OBS0423,SRC0121,images/Ej (113).png,Sooty mold
+OBS0424,SRC0121,images/Ej (114).png,Sooty mold
+OBS0425,SRC0121,images/Ej (115).png,Sooty mold
+OBS0428,SRC0121,images/Ej (118).png,Sooty mold
+OBS0429,SRC0121,images/Ej (119).png,Sooty mold
+OBS0444,SRC0044,images/Ej (130).png,Sooty mold
+OBS0445,SRC0044,images/Ej (131).png,Sooty mold
+OBS0446,SRC0044,images/Ej (132).png,Sooty mold
+OBS0504,SRC0192,images/Ej (31).png,Sooty mold
+OBS0506,SRC0192,images/Ej (32).png,Sooty mold
+OBS0508,SRC0192,images/Ej (33).png,Sooty mold
+OBS0510,SRC0192,images/Ej (34).png,Sooty mold
+OBS0512,SRC0192,images/Ej (35).png,Sooty mold
+OBS0514,SRC0192,images/Ej (36).png,Sooty mold
+OBS0515,SRC0172,images/Ej (37).jpg,Sooty mold
+OBS0516,SRC0192,images/Ej (37).png,Sooty mold
+OBS0517,SRC0172,images/Ej (38).jpg,Sooty mold
+OBS0518,SRC0192,images/Ej (38).png,Sooty mold
+OBS0519,SRC0172,images/Ej (39).jpg,Sooty mold
+OBS0523,SRC0172,images/Ej (40).jpg,Sooty mold
+OBS0530,SRC0155,images/Ej (43).png,Sooty mold
+OBS0532,SRC0155,images/Ej (44).png,Sooty mold
+OBS0534,SRC0155,images/Ej (45).png,Sooty mold
+OBS0535,SRC0155,images/Ej (46).png,Sooty mold
+OBS0574,SRC0210,images/Ej (79).png,Sooty mold
+OBS0577,SRC0210,images/Ej (80).png,Sooty mold
+OBS0578,SRC0210,images/Ej (81).png,Sooty mold
+OBS0579,SRC0210,images/Ej (82).png,Sooty mold
+OBS0580,SRC0210,images/Ej (83).png,Sooty mold
+OBS0581,SRC0210,images/Ej (84).png,Sooty mold
+OBS0582,SRC0210,images/Ej (85).png,Sooty mold
+OBS0583,SRC0210,images/Ej (86).png,Sooty mold
+OBS0596,SRC0127,images/Ej (97).png,Sooty mold
+OBS0597,SRC0127,images/Ej (98).png,Sooty mold
+OBS0598,SRC0127,images/Ej (99).png,Sooty mold
+OBS0600,SRC0039,images/K (1).png,Coffee rust
+OBS0622,SRC0002,images/K (117).png,Coffee rust
+OBS0623,SRC0002,images/K (118).png,Coffee rust
+OBS0624,SRC0002,images/K (119).png,Coffee rust
+OBS0627,SRC0002,images/K (120).png,Coffee rust
+OBS0628,SRC0068,images/K (121).png,Coffee rust
+OBS0629,SRC0068,images/K (122).png,Coffee rust
+OBS0630,SRC0068,images/K (123).png,Coffee rust
+OBS0631,SRC0068,images/K (124).png,Coffee rust
+OBS0632,SRC0107,images/K (125).png,Coffee rust
+OBS0633,SRC0107,images/K (126).png,Coffee rust
+OBS0634,SRC0107,images/K (127).png,Coffee rust
+OBS0635,SRC0107,images/K (128).png,Coffee rust
+OBS0638,SRC0085,images/K (13).png,Coffee rust
+OBS0650,SRC0085,images/K (14).png,Coffee rust
+OBS0662,SRC0085,images/K (15).png,Coffee rust
+OBS0665,SRC0085,images/K (16).png,Coffee rust
+OBS0673,SRC0039,images/K (2).png,Coffee rust
+OBS0690,SRC0040,images/K (28).jpg,Coffee rust
+OBS0692,SRC0040,images/K (29).jpg,Coffee rust
+OBS0695,SRC0039,images/K (3).png,Coffee rust
+OBS0696,SRC0162,images/K (30).jpg,Coffee rust
+OBS0698,SRC0162,images/K (31).jpg,Coffee rust
+OBS0704,SRC0062,images/K (34).jpg,Coffee rust
+OBS0706,SRC0062,images/K (35).jpg,Coffee rust
+OBS0717,SRC0039,images/K (4).png,Coffee rust
+OBS0730,SRC0136,images/K (46).jpg,Coffee rust
+OBS0732,SRC0136,images/K (47).jpg,Coffee rust
+OBS0739,SRC0138,images/K (5).png,Coffee rust
+OBS0755,SRC0108,images/K (57).png,Coffee rust
+OBS0756,SRC0214,images/K (58).jpg,Coffee rust
+OBS0757,SRC0108,images/K (58).png,Coffee rust
+OBS0758,SRC0214,images/K (59).jpg,Coffee rust
+OBS0759,SRC0108,images/K (59).png,Coffee rust
+OBS0761,SRC0138,images/K (6).png,Coffee rust
+OBS0762,SRC0214,images/K (60).jpg,Coffee rust
+OBS0763,SRC0108,images/K (60).png,Coffee rust
+OBS0764,SRC0214,images/K (61).jpg,Coffee rust
+OBS0781,SRC0209,images/K (69).png,Coffee rust
+OBS0783,SRC0138,images/K (7).png,Coffee rust
+OBS0785,SRC0209,images/K (70).png,Coffee rust
+OBS0787,SRC0209,images/K (71).png,Coffee rust
+OBS0789,SRC0209,images/K (72).png,Coffee rust
+OBS0805,SRC0138,images/K (8).png,Coffee rust
+OBS0816,SRC0216,images/K (85).jpg,Coffee rust
+OBS0818,SRC0216,images/K (86).jpg,Coffee rust
+OBS0820,SRC0216,images/K (87).jpg,Coffee rust
+OBS0822,SRC0216,images/K (88).jpg,Coffee rust

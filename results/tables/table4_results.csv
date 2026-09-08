@@ -1,0 +1,7 @@
+Experiment,Modality,Correct,Total,Accuracy,Macro_F1,Balanced_Accuracy,MCC,Selected_Epoch,Selected_Val_Loss
+Sensor-only MLP,Sensor,120,168,71.43,72.95,74.43,0.618,10,0.678672
+EfficientNet-B0,Image,168,168,100.00,100.00,100.00,1.000,9,0.01998231
+ViT-Base,Image,168,168,100.00,100.00,100.00,1.000,10,0.00092098
+MaxViT-Tiny,Image,168,168,100.00,100.00,100.00,1.000,3,0.01618601
+ViT + Sensor,Image + Sensor,168,168,100.00,100.00,100.00,1.000,9,0.00101238
+ViT + Shuffled Sensor,Image + Shuffled Sensor,168,168,100.00,100.00,100.00,1.000,9,0.00218412

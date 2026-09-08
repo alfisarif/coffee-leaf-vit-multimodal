@@ -1,0 +1,10 @@
+Study,Approach,Data_or_Task,Reported_Result
+Coffee leaf disease [2],CNN ensemble,Four coffee-leaf disease classes,97.31% validation
+Coffee leaf disease [4],EfficientNet-B0,843 natural field images; 3 classes,88.37% test
+Tomato leaf disease [12],CycleGAN + CNN/Transformer hybrid,PlantVillage / AI Challenger / private,99.45 / 98.30 / 95.40
+Plant disease [13],ViT + generative augmentation,Augmented image benchmark,99.92
+Plant disease [14],ViT + mixture of experts,PlantVillage / PlantDoc / cross-domain,99.96 / 74 / 68
+Plant disease [15],CNN-Transformer hybrid,PlantVillage / complex field dataset,98.85 / 88.53
+Citrus disease [16],U-Net + transfer-learning CNNs,Citrus leaf and fruit images,99.12 test
+Apple and corn [17],CNN ensemble + ViT,PlantVillage apple / corn,99.24 / 98.00
+This study,ViT + MLP sensor fusion,Paired image-sensor observations; 4 classes,100.00 validation

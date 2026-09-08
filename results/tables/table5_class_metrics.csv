@@ -1,0 +1,7 @@
+Class,Precision,Recall,F1,Support
+Leaf spot,100.00,100.00,100.00,51
+Coffee rust,100.00,100.00,100.00,48
+Sooty mold,100.00,100.00,100.00,39
+Healthy,100.00,100.00,100.00,30
+Macro,100.00,100.00,100.00,168
+Weighted,100.00,100.00,100.00,168

@@ -1,0 +1,20 @@
+dataset:
+  original_observations: 840
+  train_original: 672
+  validation_original: 168
+  train_effective_entries: 2016
+  source_group_column: source_id
+  image_root: data/images
+labels:
+  - Leaf spot
+  - Coffee rust
+  - Sooty mold
+  - Healthy
+sensors:
+  - kelembapan_udara
+  - kelembapan_tanah
+  - ph_tanah
+split:
+  strategy: source_group_stratified
+  train_ratio: 0.80
+  validation_ratio: 0.20

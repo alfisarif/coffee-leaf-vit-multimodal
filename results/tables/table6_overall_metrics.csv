@@ -1,0 +1,10 @@
+Metric,Value
+Accuracy,100.00%
+Macro precision,100.00%
+Macro recall,100.00%
+Macro F1,100.00%
+Balanced accuracy,100.00%
+Cohen kappa,1.0000
+MCC,1.0000
+Correct/total,168/168
+Wilson 95% CI,97.76-100.00%

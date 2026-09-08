@@ -1,0 +1,169 @@
+﻿observation_id,source_id,source_content_sha256,augmentation_id,split,image_path,kelembapan_udara,kelembapan_tanah,ph_tanah,label_original,label_canonical,label_corrected_flag,label_basis,is_synthetic
+OBS0002,SRC0131,8fe277ce849a8937ba1544b05c819b74e57f7d38cf7098bb865a40610237e558,0,validation,images/B (1).png,82.49,52.95,5.3,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0004,SRC0173,ba92b41492684ec660d169de6196b14aa51f99b67a4e05405fd21ed70403f14e,0,validation,images/B (10).png,94.27,49.7,6.03,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0023,SRC0084,5fad67b3b32067de8c80f50063cf2a27342ed33048b479e5122c8737aa94b5ed,0,validation,images/B (111).png,79.71,65.08,5.54,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0024,SRC0084,5fad67b3b32067de8c80f50063cf2a27342ed33048b479e5122c8737aa94b5ed,0,validation,images/B (112).png,77.62,66.39,5.84,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0035,SRC0035,24b8cc1822c3510db55c58b0ab12c0257c1d0fccc3633fa8913a8729d8a290b0,0,validation,images/B (121).png,86.18,51.87,5.6,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0036,SRC0035,24b8cc1822c3510db55c58b0ab12c0257c1d0fccc3633fa8913a8729d8a290b0,0,validation,images/B (122).png,72.3,62.76,5.69,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0037,SRC0171,ba3ffd50924125f7fdd9058b3b58be24e51bc1acce520e3bec555f34e211af6c,0,validation,images/B (123).png,81.42,44.41,5.55,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0038,SRC0171,ba3ffd50924125f7fdd9058b3b58be24e51bc1acce520e3bec555f34e211af6c,0,validation,images/B (124).png,66.71,57.75,5.86,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0039,SRC0023,1789ae453ba022519d9834eac1dfffb7782e054ef34097bf866524cc48c46ff1,0,validation,images/B (125).png,75.07,55.6,6.08,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0040,SRC0023,1789ae453ba022519d9834eac1dfffb7782e054ef34097bf866524cc48c46ff1,0,validation,images/B (126).png,80.96,63.65,5.38,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0043,SRC0022,16bde79c57394c5fb80da7205ea0e4e02e6197d9450b37e9cb6b6394a510aca2,0,validation,images/B (129).png,84.61,52.43,5.53,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0044,SRC0022,16bde79c57394c5fb80da7205ea0e4e02e6197d9450b37e9cb6b6394a510aca2,0,validation,images/B (130).png,80.64,57.96,5.64,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0047,SRC0097,6c81fc7a4316c644f82d6aae5ba47168c16a15d0af1c3003102bf95fd6181818,0,validation,images/B (133).png,78.28,60.52,5.63,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0048,SRC0097,6c81fc7a4316c644f82d6aae5ba47168c16a15d0af1c3003102bf95fd6181818,0,validation,images/B (134).png,87.14,49.63,5.77,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0051,SRC0118,8148cbba29e5a795673a05d49727f884adf9500960ab0ffce6205db7a4e49dc0,0,validation,images/B (137).png,88.28,54.73,5.2,Jamur lain,Leaf spot,YES,original image class-code prefix 'B',NO
+OBS0052,SRC0118,8148cbba29e5a795673a05d49727f884adf9500960ab0ffce6205db7a4e49dc0,0,validation,images/B (138).png,79.91,60.16,5.21,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0053,SRC0137,95e22bd27d90ca32efae72d5e5882f61bd71f84cc8cdfee84baff0d40faedf77,0,validation,images/B (139).png,79.65,61.55,5.36,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0055,SRC0173,ba92b41492684ec660d169de6196b14aa51f99b67a4e05405fd21ed70403f14e,0,validation,images/B (14).png,90.4,61.34,5.62,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0056,SRC0137,95e22bd27d90ca32efae72d5e5882f61bd71f84cc8cdfee84baff0d40faedf77,0,validation,images/B (140).png,91.57,54.43,4.6,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0067,SRC0173,ba92b41492684ec660d169de6196b14aa51f99b67a4e05405fd21ed70403f14e,0,validation,images/B (15).png,85.51,45.96,6.09,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0071,SRC0173,ba92b41492684ec660d169de6196b14aa51f99b67a4e05405fd21ed70403f14e,0,validation,images/B (16).png,85.29,51.92,4.44,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0075,SRC0173,ba92b41492684ec660d169de6196b14aa51f99b67a4e05405fd21ed70403f14e,0,validation,images/B (18).png,61.81,50.06,5.62,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0079,SRC0173,ba92b41492684ec660d169de6196b14aa51f99b67a4e05405fd21ed70403f14e,0,validation,images/B (2).png,80.36,51.32,6.13,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0085,SRC0174,bac5ec5da77171a09defabed1d4d236153064d30b3964cd8b3bdf8abb5799eaa,0,validation,images/B (22).png,80.4,57.94,5.21,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0087,SRC0131,8fe277ce849a8937ba1544b05c819b74e57f7d38cf7098bb865a40610237e558,0,validation,images/B (23).png,89.08,44.34,6.61,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0089,SRC0174,bac5ec5da77171a09defabed1d4d236153064d30b3964cd8b3bdf8abb5799eaa,0,validation,images/B (24).png,82.46,64.59,5.75,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0090,SRC0148,a2a908d64e26e5a8b611759de006d891932f65bab68ebdbc98f597ba6a5b78ed,0,validation,images/B (25).jpg,87.66,50.16,5.66,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0091,SRC0174,bac5ec5da77171a09defabed1d4d236153064d30b3964cd8b3bdf8abb5799eaa,0,validation,images/B (25).png,85.91,51.49,5.83,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0092,SRC0148,a2a908d64e26e5a8b611759de006d891932f65bab68ebdbc98f597ba6a5b78ed,0,validation,images/B (26).jpg,92.52,64.34,6.31,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0101,SRC0131,8fe277ce849a8937ba1544b05c819b74e57f7d38cf7098bb865a40610237e558,0,validation,images/B (3).png,69.27,43.99,4.95,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0120,SRC0067,4f670b84a766a4be8ff7dc2f45f5dd5257104249cefba56ea9271ceb12d44489,0,validation,images/B (39).jpg,88.16,59.31,5.61,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0122,SRC0120,81c7a0de85f9e9008b7d8b593a705bfed3e48107414515c79a383d8937376aeb,0,validation,images/B (4).jpg,77.0,65.05,5.44,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0124,SRC0067,4f670b84a766a4be8ff7dc2f45f5dd5257104249cefba56ea9271ceb12d44489,0,validation,images/B (40).jpg,69.51,52.62,4.53,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0145,SRC0131,8fe277ce849a8937ba1544b05c819b74e57f7d38cf7098bb865a40610237e558,0,validation,images/B (5).png,85.25,47.99,5.34,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0167,SRC0173,ba92b41492684ec660d169de6196b14aa51f99b67a4e05405fd21ed70403f14e,0,validation,images/B (6).png,92.11,62.68,6.26,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0172,SRC0215,e2118f9cb62bca734803600f1f9d46777ce8cf8b99cf85f17d782fdc013444e7,0,validation,images/B (62).jpg,80.49,48.73,6.02,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0174,SRC0215,e2118f9cb62bca734803600f1f9d46777ce8cf8b99cf85f17d782fdc013444e7,0,validation,images/B (63).jpg,81.57,48.46,5.88,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0176,SRC0215,e2118f9cb62bca734803600f1f9d46777ce8cf8b99cf85f17d782fdc013444e7,0,validation,images/B (64).jpg,87.6,52.44,5.09,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0178,SRC0215,e2118f9cb62bca734803600f1f9d46777ce8cf8b99cf85f17d782fdc013444e7,0,validation,images/B (65).jpg,96.45,53.82,5.48,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0180,SRC0208,dc80cc05fd77bae39687901e5f125c2143e01cc339325f9802911b122b9be1f8,0,validation,images/B (66).jpg,97.91,54.27,5.41,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0182,SRC0208,dc80cc05fd77bae39687901e5f125c2143e01cc339325f9802911b122b9be1f8,0,validation,images/B (67).jpg,78.48,49.45,5.81,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0184,SRC0208,dc80cc05fd77bae39687901e5f125c2143e01cc339325f9802911b122b9be1f8,0,validation,images/B (68).jpg,88.09,66.12,5.01,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0186,SRC0208,dc80cc05fd77bae39687901e5f125c2143e01cc339325f9802911b122b9be1f8,0,validation,images/B (69).jpg,86.27,51.18,4.47,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0189,SRC0131,8fe277ce849a8937ba1544b05c819b74e57f7d38cf7098bb865a40610237e558,0,validation,images/B (7).png,75.66,56.89,4.98,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0202,SRC0217,e3505cb3ea658a49b4e6e7af95551ae11b71175e74c67e1dfb0d60cdc83f0126,0,validation,images/B (76).jpg,82.45,45.23,6.25,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0205,SRC0190,cf1188cabf3b5b1248b6ac6b7e0428a37f36b2e4e2f4c98ed47683bc7784e1f8,0,validation,images/B (77).png,74.7,46.7,5.8,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0206,SRC0079,5b0546b67de961fc0393c80d2e10e1167c82ac7ca8b54a701d304496256435f3,0,validation,images/B (78).jpg,80.19,53.35,5.52,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0207,SRC0190,cf1188cabf3b5b1248b6ac6b7e0428a37f36b2e4e2f4c98ed47683bc7784e1f8,0,validation,images/B (78).png,88.61,58.72,4.97,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0209,SRC0190,cf1188cabf3b5b1248b6ac6b7e0428a37f36b2e4e2f4c98ed47683bc7784e1f8,0,validation,images/B (79).png,86.91,60.29,5.31,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0213,SRC0190,cf1188cabf3b5b1248b6ac6b7e0428a37f36b2e4e2f4c98ed47683bc7784e1f8,0,validation,images/B (80).png,88.99,52.63,5.19,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0218,SRC0007,08202b66d08247a423e571085b9608e7ecd477c7e2a306d4f03dbe6477c91c08,0,validation,images/B (83).jpg,81.29,60.49,6.44,Bercak daun,Leaf spot,NO,original image class-code prefix 'B',NO
+OBS0261,SRC0050,371ea4f81526b6849e11318524c97b904ddc71a4e1ecb0741da70880ac18957c,0,validation,images/Ds (105).png,64.91,69.92,6.37,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0263,SRC0050,371ea4f81526b6849e11318524c97b904ddc71a4e1ecb0741da70880ac18957c,0,validation,images/Ds (107).png,48.76,75.58,6.45,Karat daun,Healthy,YES,original image class-code prefix 'Ds',NO
+OBS0265,SRC0050,371ea4f81526b6849e11318524c97b904ddc71a4e1ecb0741da70880ac18957c,0,validation,images/Ds (109).png,67.42,71.31,6.39,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0287,SRC0057,3fa67f37d0109961ecf05ecd97fdaf15c23275891d12d6e7b3c2f2ea1fc4aca4,0,validation,images/Ds (129).png,68.66,60.63,6.4,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0294,SRC0057,3fa67f37d0109961ecf05ecd97fdaf15c23275891d12d6e7b3c2f2ea1fc4aca4,0,validation,images/Ds (135).png,71.74,63.26,6.53,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0298,SRC0057,3fa67f37d0109961ecf05ecd97fdaf15c23275891d12d6e7b3c2f2ea1fc4aca4,0,validation,images/Ds (139).png,74.56,58.32,6.73,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0301,SRC0057,3fa67f37d0109961ecf05ecd97fdaf15c23275891d12d6e7b3c2f2ea1fc4aca4,0,validation,images/Ds (141).png,60.69,56.34,5.75,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0319,SRC0176,bc568dad3a918c096122faee8f588a683298b13e17711109a9e74b35e88acc39,0,validation,images/Ds (22).jpg,70.3,68.21,6.29,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0320,SRC0176,bc568dad3a918c096122faee8f588a683298b13e17711109a9e74b35e88acc39,0,validation,images/Ds (23).jpg,63.62,57.55,6.13,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0321,SRC0176,bc568dad3a918c096122faee8f588a683298b13e17711109a9e74b35e88acc39,0,validation,images/Ds (24).jpg,65.46,47.78,5.92,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0322,SRC0176,bc568dad3a918c096122faee8f588a683298b13e17711109a9e74b35e88acc39,0,validation,images/Ds (25).jpg,71.76,75.78,6.21,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0323,SRC0176,bc568dad3a918c096122faee8f588a683298b13e17711109a9e74b35e88acc39,0,validation,images/Ds (26).jpg,65.87,51.94,6.02,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0324,SRC0176,bc568dad3a918c096122faee8f588a683298b13e17711109a9e74b35e88acc39,0,validation,images/Ds (27).jpg,82.36,53.94,6.43,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0325,SRC0213,df2d6cf3f311e4bc14e8bd9d47c53d5076e5ac548b82cb1ec6b036c21e0adfba,0,validation,images/Ds (28).jpg,64.79,66.8,5.27,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0326,SRC0213,df2d6cf3f311e4bc14e8bd9d47c53d5076e5ac548b82cb1ec6b036c21e0adfba,0,validation,images/Ds (29).jpg,58.73,79.81,6.23,Karat daun,Healthy,YES,original image class-code prefix 'Ds',NO
+OBS0328,SRC0213,df2d6cf3f311e4bc14e8bd9d47c53d5076e5ac548b82cb1ec6b036c21e0adfba,0,validation,images/Ds (30).jpg,76.86,62.74,5.77,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0329,SRC0213,df2d6cf3f311e4bc14e8bd9d47c53d5076e5ac548b82cb1ec6b036c21e0adfba,0,validation,images/Ds (31).jpg,75.34,66.82,6.74,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0330,SRC0213,df2d6cf3f311e4bc14e8bd9d47c53d5076e5ac548b82cb1ec6b036c21e0adfba,0,validation,images/Ds (32).jpg,72.43,66.01,6.93,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0331,SRC0213,df2d6cf3f311e4bc14e8bd9d47c53d5076e5ac548b82cb1ec6b036c21e0adfba,0,validation,images/Ds (33).jpg,71.91,69.88,5.52,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0352,SRC0153,a5dd58fa81ada2a9509326ed9b943f90efa58c2a48f0c47ca96e436b9fb54e69,0,validation,images/Ds (52).jpg,81.58,59.31,5.84,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0353,SRC0153,a5dd58fa81ada2a9509326ed9b943f90efa58c2a48f0c47ca96e436b9fb54e69,0,validation,images/Ds (53).jpg,77.24,58.11,6.55,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0354,SRC0153,a5dd58fa81ada2a9509326ed9b943f90efa58c2a48f0c47ca96e436b9fb54e69,0,validation,images/Ds (54).jpg,69.24,68.82,6.82,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0355,SRC0153,a5dd58fa81ada2a9509326ed9b943f90efa58c2a48f0c47ca96e436b9fb54e69,0,validation,images/Ds (55).jpg,71.56,51.83,6.79,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0356,SRC0153,a5dd58fa81ada2a9509326ed9b943f90efa58c2a48f0c47ca96e436b9fb54e69,0,validation,images/Ds (56).jpg,64.86,63.25,7.4,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0357,SRC0153,a5dd58fa81ada2a9509326ed9b943f90efa58c2a48f0c47ca96e436b9fb54e69,0,validation,images/Ds (57).jpg,67.43,60.74,6.43,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0388,SRC0050,371ea4f81526b6849e11318524c97b904ddc71a4e1ecb0741da70880ac18957c,0,validation,images/Ds (85).png,77.49,60.39,6.41,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0392,SRC0050,371ea4f81526b6849e11318524c97b904ddc71a4e1ecb0741da70880ac18957c,0,validation,images/Ds (89).png,69.8,55.44,6.93,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0397,SRC0050,371ea4f81526b6849e11318524c97b904ddc71a4e1ecb0741da70880ac18957c,0,validation,images/Ds (93).png,55.87,75.99,6.41,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0399,SRC0050,371ea4f81526b6849e11318524c97b904ddc71a4e1ecb0741da70880ac18957c,0,validation,images/Ds (95).png,63.72,70.42,6.53,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0403,SRC0050,371ea4f81526b6849e11318524c97b904ddc71a4e1ecb0741da70880ac18957c,0,validation,images/Ds (99).png,70.86,58.68,5.59,Sehat,Healthy,NO,original image class-code prefix 'Ds',NO
+OBS0408,SRC0127,8c24615efc73cef3f73ecd1e491c40fb007492b6b8658f8fc42d2dc6065fc167,0,validation,images/Ej (100).png,88.28,70.32,6.18,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0420,SRC0121,84946b1bacb8cf7be655fefa3faf5d256e74d663472e18c160812d8f4c59e4fe,0,validation,images/Ej (110).png,92.37,71.28,6.34,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0421,SRC0121,84946b1bacb8cf7be655fefa3faf5d256e74d663472e18c160812d8f4c59e4fe,0,validation,images/Ej (111).png,98.0,82.61,5.92,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0422,SRC0121,84946b1bacb8cf7be655fefa3faf5d256e74d663472e18c160812d8f4c59e4fe,0,validation,images/Ej (112).png,98.0,71.61,5.15,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0423,SRC0121,84946b1bacb8cf7be655fefa3faf5d256e74d663472e18c160812d8f4c59e4fe,0,validation,images/Ej (113).png,89.52,79.3,5.59,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0424,SRC0121,84946b1bacb8cf7be655fefa3faf5d256e74d663472e18c160812d8f4c59e4fe,0,validation,images/Ej (114).png,96.65,71.97,6.7,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0425,SRC0121,84946b1bacb8cf7be655fefa3faf5d256e74d663472e18c160812d8f4c59e4fe,0,validation,images/Ej (115).png,98.0,72.5,5.34,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0428,SRC0121,84946b1bacb8cf7be655fefa3faf5d256e74d663472e18c160812d8f4c59e4fe,0,validation,images/Ej (118).png,98.0,70.72,5.8,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0429,SRC0121,84946b1bacb8cf7be655fefa3faf5d256e74d663472e18c160812d8f4c59e4fe,0,validation,images/Ej (119).png,97.49,71.4,5.42,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0444,SRC0044,2eec58e1d7d7deee200d689cde84ed03e3390453c4e01c3d0e0aa363588389fd,0,validation,images/Ej (130).png,91.41,82.77,5.96,Sehat,Sooty mold,YES,original image class-code prefix 'Ej',NO
+OBS0445,SRC0044,2eec58e1d7d7deee200d689cde84ed03e3390453c4e01c3d0e0aa363588389fd,0,validation,images/Ej (131).png,81.35,75.85,6.29,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0446,SRC0044,2eec58e1d7d7deee200d689cde84ed03e3390453c4e01c3d0e0aa363588389fd,0,validation,images/Ej (132).png,97.55,64.35,6.29,Bercak daun,Sooty mold,YES,original image class-code prefix 'Ej',NO
+OBS0504,SRC0192,d1832f3fad7f0891e5e15c122e7411b6b91a01c9a6d1769d36658c6d43496a30,0,validation,images/Ej (31).png,97.78,86.87,6.69,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0506,SRC0192,d1832f3fad7f0891e5e15c122e7411b6b91a01c9a6d1769d36658c6d43496a30,0,validation,images/Ej (32).png,84.89,67.82,6.91,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0508,SRC0192,d1832f3fad7f0891e5e15c122e7411b6b91a01c9a6d1769d36658c6d43496a30,0,validation,images/Ej (33).png,89.86,80.59,5.46,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0510,SRC0192,d1832f3fad7f0891e5e15c122e7411b6b91a01c9a6d1769d36658c6d43496a30,0,validation,images/Ej (34).png,85.06,77.57,6.19,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0512,SRC0192,d1832f3fad7f0891e5e15c122e7411b6b91a01c9a6d1769d36658c6d43496a30,0,validation,images/Ej (35).png,89.85,63.43,5.81,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0514,SRC0192,d1832f3fad7f0891e5e15c122e7411b6b91a01c9a6d1769d36658c6d43496a30,0,validation,images/Ej (36).png,86.3,83.02,4.98,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0515,SRC0172,ba4f1941159a78a31869870194e42ae9b97ac189c4a24b1553bd18dee899d3cc,0,validation,images/Ej (37).jpg,88.79,69.82,6.36,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0516,SRC0192,d1832f3fad7f0891e5e15c122e7411b6b91a01c9a6d1769d36658c6d43496a30,0,validation,images/Ej (37).png,96.78,62.22,5.64,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0517,SRC0172,ba4f1941159a78a31869870194e42ae9b97ac189c4a24b1553bd18dee899d3cc,0,validation,images/Ej (38).jpg,91.61,73.78,6.45,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0518,SRC0192,d1832f3fad7f0891e5e15c122e7411b6b91a01c9a6d1769d36658c6d43496a30,0,validation,images/Ej (38).png,86.46,81.74,6.22,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0519,SRC0172,ba4f1941159a78a31869870194e42ae9b97ac189c4a24b1553bd18dee899d3cc,0,validation,images/Ej (39).jpg,90.47,63.51,5.7,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0523,SRC0172,ba4f1941159a78a31869870194e42ae9b97ac189c4a24b1553bd18dee899d3cc,0,validation,images/Ej (40).jpg,89.03,72.74,6.32,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0530,SRC0155,a89068e0ec6bff5c55faabcabb5f140c4decc4c764bb683b45b80610977b8568,0,validation,images/Ej (43).png,85.35,69.53,6.07,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0532,SRC0155,a89068e0ec6bff5c55faabcabb5f140c4decc4c764bb683b45b80610977b8568,0,validation,images/Ej (44).png,78.03,89.37,6.23,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0534,SRC0155,a89068e0ec6bff5c55faabcabb5f140c4decc4c764bb683b45b80610977b8568,0,validation,images/Ej (45).png,87.28,62.43,5.56,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0535,SRC0155,a89068e0ec6bff5c55faabcabb5f140c4decc4c764bb683b45b80610977b8568,0,validation,images/Ej (46).png,85.57,84.11,5.35,Karat daun,Sooty mold,YES,original image class-code prefix 'Ej',NO
+OBS0574,SRC0210,dddaeb5b990c6bfb225abc26e49106965b004caad7c921a0696c02494deb8793,0,validation,images/Ej (79).png,88.49,86.49,5.59,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0577,SRC0210,dddaeb5b990c6bfb225abc26e49106965b004caad7c921a0696c02494deb8793,0,validation,images/Ej (80).png,96.04,77.52,6.15,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0578,SRC0210,dddaeb5b990c6bfb225abc26e49106965b004caad7c921a0696c02494deb8793,0,validation,images/Ej (81).png,98.0,78.02,5.65,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0579,SRC0210,dddaeb5b990c6bfb225abc26e49106965b004caad7c921a0696c02494deb8793,0,validation,images/Ej (82).png,79.44,89.81,4.69,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0580,SRC0210,dddaeb5b990c6bfb225abc26e49106965b004caad7c921a0696c02494deb8793,0,validation,images/Ej (83).png,96.99,77.98,5.92,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0581,SRC0210,dddaeb5b990c6bfb225abc26e49106965b004caad7c921a0696c02494deb8793,0,validation,images/Ej (84).png,96.82,81.84,6.32,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0582,SRC0210,dddaeb5b990c6bfb225abc26e49106965b004caad7c921a0696c02494deb8793,0,validation,images/Ej (85).png,85.39,82.13,6.07,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0583,SRC0210,dddaeb5b990c6bfb225abc26e49106965b004caad7c921a0696c02494deb8793,0,validation,images/Ej (86).png,92.26,71.23,6.67,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0596,SRC0127,8c24615efc73cef3f73ecd1e491c40fb007492b6b8658f8fc42d2dc6065fc167,0,validation,images/Ej (97).png,91.84,79.21,5.5,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0597,SRC0127,8c24615efc73cef3f73ecd1e491c40fb007492b6b8658f8fc42d2dc6065fc167,0,validation,images/Ej (98).png,86.78,74.56,5.93,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0598,SRC0127,8c24615efc73cef3f73ecd1e491c40fb007492b6b8658f8fc42d2dc6065fc167,0,validation,images/Ej (99).png,87.54,86.57,5.52,Jamur lain,Sooty mold,NO,original image class-code prefix 'Ej',NO
+OBS0600,SRC0039,28c032f6539d05794218dd3cf74527703d4e34bfc9cf75d61787393dfac62e2c,0,validation,images/K (1).png,78.1,51.42,5.12,Sehat,Coffee rust,YES,original image class-code prefix 'K',NO
+OBS0622,SRC0002,01cc228b19c1f1b7f64402262ff3a605e5df76ebfd8932e6a85051539c702c93,0,validation,images/K (117).png,82.97,46.9,4.92,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0623,SRC0002,01cc228b19c1f1b7f64402262ff3a605e5df76ebfd8932e6a85051539c702c93,0,validation,images/K (118).png,87.62,46.12,4.8,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0624,SRC0002,01cc228b19c1f1b7f64402262ff3a605e5df76ebfd8932e6a85051539c702c93,0,validation,images/K (119).png,90.28,47.83,5.12,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0627,SRC0002,01cc228b19c1f1b7f64402262ff3a605e5df76ebfd8932e6a85051539c702c93,0,validation,images/K (120).png,71.25,61.94,5.51,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0628,SRC0068,4fea587db2d04e6361571c9f3f175764f0d3f135aa01b08f923ddaa711747a53,0,validation,images/K (121).png,82.04,54.3,5.2,Sehat,Coffee rust,YES,original image class-code prefix 'K',NO
+OBS0629,SRC0068,4fea587db2d04e6361571c9f3f175764f0d3f135aa01b08f923ddaa711747a53,0,validation,images/K (122).png,76.8,42.38,5.14,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0630,SRC0068,4fea587db2d04e6361571c9f3f175764f0d3f135aa01b08f923ddaa711747a53,0,validation,images/K (123).png,84.33,55.43,5.8,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0631,SRC0068,4fea587db2d04e6361571c9f3f175764f0d3f135aa01b08f923ddaa711747a53,0,validation,images/K (124).png,64.89,57.39,5.16,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0632,SRC0107,73b6931c9266367d39e880d6ba9f4855ce6d916ed4a25acab6b830f7ae2889ad,0,validation,images/K (125).png,86.78,47.04,6.08,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0633,SRC0107,73b6931c9266367d39e880d6ba9f4855ce6d916ed4a25acab6b830f7ae2889ad,0,validation,images/K (126).png,79.51,46.82,5.18,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0634,SRC0107,73b6931c9266367d39e880d6ba9f4855ce6d916ed4a25acab6b830f7ae2889ad,0,validation,images/K (127).png,79.28,51.09,5.12,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0635,SRC0107,73b6931c9266367d39e880d6ba9f4855ce6d916ed4a25acab6b830f7ae2889ad,0,validation,images/K (128).png,75.27,41.22,5.57,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0638,SRC0085,6060dd842265507be58990cea81067f399e567ad320e05a69bad84b1c150a6fe,0,validation,images/K (13).png,83.37,57.7,4.8,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0650,SRC0085,6060dd842265507be58990cea81067f399e567ad320e05a69bad84b1c150a6fe,0,validation,images/K (14).png,80.86,57.16,5.5,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0662,SRC0085,6060dd842265507be58990cea81067f399e567ad320e05a69bad84b1c150a6fe,0,validation,images/K (15).png,75.8,43.62,5.13,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0665,SRC0085,6060dd842265507be58990cea81067f399e567ad320e05a69bad84b1c150a6fe,0,validation,images/K (16).png,75.86,46.11,4.31,Sehat,Coffee rust,YES,original image class-code prefix 'K',NO
+OBS0673,SRC0039,28c032f6539d05794218dd3cf74527703d4e34bfc9cf75d61787393dfac62e2c,0,validation,images/K (2).png,75.9,49.44,5.22,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0690,SRC0040,29e4bf06385d86774c0be1bd1c561688a015607da57e0a0992ffd2a018ec6a57,0,validation,images/K (28).jpg,80.22,40.2,5.63,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0692,SRC0040,29e4bf06385d86774c0be1bd1c561688a015607da57e0a0992ffd2a018ec6a57,0,validation,images/K (29).jpg,90.44,42.43,5.09,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0695,SRC0039,28c032f6539d05794218dd3cf74527703d4e34bfc9cf75d61787393dfac62e2c,0,validation,images/K (3).png,83.04,51.15,5.67,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0696,SRC0162,b0d86a2fbf8df731f1132ba71883fadb92d75cab0dc8c7e1ed166f0c8ea9ba4b,0,validation,images/K (30).jpg,77.47,36.58,5.88,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0698,SRC0162,b0d86a2fbf8df731f1132ba71883fadb92d75cab0dc8c7e1ed166f0c8ea9ba4b,0,validation,images/K (31).jpg,75.55,44.37,4.56,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0704,SRC0062,44e3cb4325f6440b7e8adcf8db6c5b4ef48969d0ac7da082e94fffc66b41daad,0,validation,images/K (34).jpg,74.7,44.3,4.98,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0706,SRC0062,44e3cb4325f6440b7e8adcf8db6c5b4ef48969d0ac7da082e94fffc66b41daad,0,validation,images/K (35).jpg,80.31,53.01,4.87,Jamur lain,Coffee rust,YES,original image class-code prefix 'K',NO
+OBS0717,SRC0039,28c032f6539d05794218dd3cf74527703d4e34bfc9cf75d61787393dfac62e2c,0,validation,images/K (4).png,80.19,59.39,4.66,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0730,SRC0136,95d7be2b0441414ea13d469d4b0756b95897fdfc1ce9c89f0e683f792572cab7,0,validation,images/K (46).jpg,76.83,49.66,4.71,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0732,SRC0136,95d7be2b0441414ea13d469d4b0756b95897fdfc1ce9c89f0e683f792572cab7,0,validation,images/K (47).jpg,73.68,38.85,5.81,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0739,SRC0138,97fbd28f76646ff60dbaa3e7bb9f3d6c2f3b4ea88f6ce0fb6981e1074c62577e,0,validation,images/K (5).png,92.37,43.97,5.49,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0755,SRC0108,754d696e452cbdb084a24aa91dde81863ab1ccec23bf69aad1f3f250d0dd8e5c,0,validation,images/K (57).png,76.86,34.63,5.3,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0756,SRC0214,e15be2d88fd2bf829930107ffc9a59b687777208fb6932f8d138def3935b8df9,0,validation,images/K (58).jpg,97.79,44.77,5.08,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0757,SRC0108,754d696e452cbdb084a24aa91dde81863ab1ccec23bf69aad1f3f250d0dd8e5c,0,validation,images/K (58).png,80.35,54.63,4.89,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0758,SRC0214,e15be2d88fd2bf829930107ffc9a59b687777208fb6932f8d138def3935b8df9,0,validation,images/K (59).jpg,79.66,63.76,5.6,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0759,SRC0108,754d696e452cbdb084a24aa91dde81863ab1ccec23bf69aad1f3f250d0dd8e5c,0,validation,images/K (59).png,77.97,51.55,5.07,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0761,SRC0138,97fbd28f76646ff60dbaa3e7bb9f3d6c2f3b4ea88f6ce0fb6981e1074c62577e,0,validation,images/K (6).png,73.55,48.07,5.93,Sehat,Coffee rust,YES,original image class-code prefix 'K',NO
+OBS0762,SRC0214,e15be2d88fd2bf829930107ffc9a59b687777208fb6932f8d138def3935b8df9,0,validation,images/K (60).jpg,76.2,56.2,5.66,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0763,SRC0108,754d696e452cbdb084a24aa91dde81863ab1ccec23bf69aad1f3f250d0dd8e5c,0,validation,images/K (60).png,98.0,44.78,4.56,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0764,SRC0214,e15be2d88fd2bf829930107ffc9a59b687777208fb6932f8d138def3935b8df9,0,validation,images/K (61).jpg,76.14,46.31,5.35,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0781,SRC0209,dda2d0c7b9be077bc4bf5fd4df4337492d791b005ef4a4ad3693128d3755147d,0,validation,images/K (69).png,82.92,47.38,4.97,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0783,SRC0138,97fbd28f76646ff60dbaa3e7bb9f3d6c2f3b4ea88f6ce0fb6981e1074c62577e,0,validation,images/K (7).png,83.58,55.23,5.42,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0785,SRC0209,dda2d0c7b9be077bc4bf5fd4df4337492d791b005ef4a4ad3693128d3755147d,0,validation,images/K (70).png,84.15,66.04,5.65,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0787,SRC0209,dda2d0c7b9be077bc4bf5fd4df4337492d791b005ef4a4ad3693128d3755147d,0,validation,images/K (71).png,85.23,44.37,4.57,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0789,SRC0209,dda2d0c7b9be077bc4bf5fd4df4337492d791b005ef4a4ad3693128d3755147d,0,validation,images/K (72).png,79.73,46.83,5.27,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0805,SRC0138,97fbd28f76646ff60dbaa3e7bb9f3d6c2f3b4ea88f6ce0fb6981e1074c62577e,0,validation,images/K (8).png,76.55,39.34,4.9,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0816,SRC0216,e2f53449590b742ded8c1f603774fcb60056869adcce434876e6b210df8be23b,0,validation,images/K (85).jpg,68.06,46.41,5.37,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0818,SRC0216,e2f53449590b742ded8c1f603774fcb60056869adcce434876e6b210df8be23b,0,validation,images/K (86).jpg,89.48,59.58,4.94,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0820,SRC0216,e2f53449590b742ded8c1f603774fcb60056869adcce434876e6b210df8be23b,0,validation,images/K (87).jpg,87.57,57.81,5.25,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO
+OBS0822,SRC0216,e2f53449590b742ded8c1f603774fcb60056869adcce434876e6b210df8be23b,0,validation,images/K (88).jpg,89.28,50.82,5.44,Karat daun,Coffee rust,NO,original image class-code prefix 'K',NO

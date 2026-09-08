@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Context-Aware Multimodal Classification of Coffee Leaf Diseases Using Vision Transformer and Agro-Environmental Sensor Data"
+type: software
+abstract: "Research code and reproducibility artifacts for a source-separated multimodal coffee leaf disease classification study using Vision Transformer and agro-environmental sensor data."
+license: MIT
+authors:
+  - family-names: "Arif"
+    given-names: "Alfis"
+  # Add all manuscript authors before publication.

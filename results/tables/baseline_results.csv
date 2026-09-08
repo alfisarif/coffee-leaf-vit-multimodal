@@ -1,0 +1,3 @@
+Experiment,Correct,Total,Accuracy,Macro_F1,Selected_Epoch,Selected_Val_Loss
+EfficientNet-B0,168,168,100.00,100.00,9,0.01998231
+MaxViT-Tiny,168,168,100.00,100.00,3,0.01618601

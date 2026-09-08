@@ -1,0 +1,7 @@
+experiments:
+  sensor_only: {modality: sensor}
+  vit_only: {modality: image}
+  vit_sensor: {modality: image_sensor}
+  shuffled_sensor: {modality: image_shuffled_sensor, shuffle_seed: 4242}
+  efficientnet_b0: {modality: image}
+  maxvit_tiny: {modality: image}

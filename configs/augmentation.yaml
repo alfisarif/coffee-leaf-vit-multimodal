@@ -1,0 +1,13 @@
+sensor:
+  humidity_gaussian_std: 1.2
+  soil_moisture_gaussian_std: 1.2
+  soil_ph_gaussian_std: 0.08
+  variants_per_original: 2
+  validation_augmented: false
+image:
+  horizontal_flip: true
+  vertical_flip: true
+  rotation_degrees: 20
+  brightness: 0.15
+  contrast: 0.15
+  validation_random_transform: false

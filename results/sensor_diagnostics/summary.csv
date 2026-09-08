@@ -1,0 +1,2 @@
+Method,Train_Original,Validation_Original,Accuracy,Macro_F1,Balanced_Accuracy
+LogisticRegression sensor-only diagnostic,672,168,74.4048,76.3480,76.7854
